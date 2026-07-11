@@ -172,3 +172,8 @@ hr {
   background-color: transparent;
   color: #869999;
 }
+
+[formgroupname].ng-invalid.ng-touched.ng-dirty input{
+  border-color:white;
+  background-color:lightcoral;
+}
